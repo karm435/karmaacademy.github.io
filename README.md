@@ -1,6 +1,6 @@
-# website for Landlords Co app
+# website for Paperless app
 
-This repo contains the contents of the Landlords Co app.
+This repo contains the contents of the Paperless app.
 
 
 
