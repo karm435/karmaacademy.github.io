@@ -36,23 +36,23 @@ features                                  :
 
   - title                                 : Advanced Scanning Technology
     description                           : High-quality document scanning,  Auto-edge detection and perspective correction, Multi-page document support
-    fontawesome_icon_name                 : scan
+    fontawesome_icon_name                 : scanner-image
     
   - title                                 : Versatile Document Handling
     description                           : Scan various document types, receipts, ID cards, books, and more, Batch scanning for multiple documents
-    fontawesome_icon_name                 : people
+    fontawesome_icon_name                 : file
 
   - title                                 : OCR Technology
     description                           : Extract text from images and scanned documents, Make all your documents searchable
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : text
 
   - title                                 : User-Friendly Interface
     description                           : Intuitive design for easy navigation, Customizable dashboard for quick access to frequently used features
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : user-group
 
   - title                                 : Regular Updates and Support
     description                           : Continuous improvements and new features, Responsive customer support
-    fontawesome_icon_name                 : camera
+    fontawesome_icon_name                 : headset
 
 faqs                                      :
 
