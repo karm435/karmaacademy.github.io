@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : scan
     
   - title                                 : Versatile Document Handling
-    description                           : Scan various document types: receipts, ID cards, books, and more, Batch scanning for multiple documents
+    description                           : Scan various document types, receipts, ID cards, books, and more, Batch scanning for multiple documents
     fontawesome_icon_name                 : people
 
   - title                                 : OCR Technology
