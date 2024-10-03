@@ -7,22 +7,6 @@ include_in_header: true
 Please read these Terms of Use, including those set forth in the Privacy Policy ("Terms", "Terms of Use") carefully before using the Paperless application (the "App") made available by Karma Academy pty ltd ("us", "we", or "our").
 Your access to and use of the App is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the App.
 
-# Subscription Payments, Renewals, and Cancellation
-
-Some parts of the App are billed on a subscription basis ("Subscription(s)"). If you choose to purchase a Subscription, payment will be charged to your Apple ID on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set  on a monthly basis.
-
-Your Subscription will automatically renew under the exact same conditions unless it is canceled at least 24 hours before the end of the current Billing Cycle. Your account will be charged for renewal within 24 hours prior to the end of the current Billing Cycle. You may manage or cancel your Subscription by going to your account settings on the App Store after purchase.
-
-Karma Academy pty ltd does not send invoices to customers that purchase a Subscription. Your account balance information can be accessed by going to your account settings on the App Store after purchase.
-
-# Trial Subscriptions
-
-The App may offer you a free trial subscription period during which you can use all features of the App for a limited period of time. If you fail to cancel your free trial subscription, you agree to be billed according to the terms set forth in the section of these terms entitled "Subscription Payments, Renewals, and Cancellation".
-
-# Fee Changes
-
-Karma Academy pty ltd, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions.
-
 # Refunds and Billing Disputes
 
 All purchases are final. Karma Academy pty ltd cannot issue refunds for purchases charged to your Apple ID. If you have a billing dispute, you must contact the App Store to seek a remedy.

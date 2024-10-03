@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-March 8 2023
+Oct 4 2024
 
 # Frequently asked questions
 <br>
