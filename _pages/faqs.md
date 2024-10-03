@@ -10,23 +10,15 @@ March 8 2023
 # Frequently asked questions
 <br>
 
-## How do I search for a Property?
-You cannot search for the properties now but it will come in the future.
+## How do I search for a Document?
+You cannot search for a document using the documet name or any text that OCR has detected from your document
 
-## Installed app on a new device and it is not showing my data synced with iCloud?
-Sometime app does not trigger the refresh. Navigate to Settings -> Apple Id Account -> iCloud. After that just come back to the app and you should see the data.
+## Do I loose all my Pdf if I delete the app?
+Yes, All of your PDFs are stored on your device and also the OCR text. It is not sent to any server so you will loose them. Save your PDFs to your Files or iCloud Drive for safer side.
 <br>
 
-## How do I stop iCloud sync?
-You can navigate Settings and iCloud settings and stop the Paperless app from syncing with icloud.
-<br>
-
-## Do I loose all my images if I delete the app?
-Your data is backed up to your own iCloud and will only be deleted if you Turn off the iCloud sync.
-<br>
-
-## How do I delete a Property?
-You cannot delete one right now but will be in future
+## How do I delete a Document?
+You can open the details of the docuemnt and there is a delete option to delete it.
 <br>
 
 ## How do I contact for support?

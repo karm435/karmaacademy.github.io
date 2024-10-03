@@ -13,9 +13,32 @@ September 18 2022
 Help Paperless grow! I’m Karmjit, the developer of this app. I’m the only developer of the app so I really appreciate your help. If you have any questions just message me on [twitter]([http://twitter](https://twitter.com/CodeWithKarma))
 
 ## Description
-Welcome to Paperless, your all-in-one solution for efficient property management. Whether you're a seasoned real estate investor or a first-time landlord, our app is designed to simplify the process of listing and managing your properties, making your landlord journey smoother and more rewarding. 
+Welcome to Paperless, Transform your physical documents into organized digital files with Paperless. Say goodbye to clutter and hello to efficient document management!
 
-Paperless is your go-to platform for efficient property management, empowering landlords to focus on growing their portfolios while providing exceptional living experiences for tenants. Download the app today and take control of your real estate investments like never before.
+Paperless is your all-in-one solution for scanning, organizing, and managing documents of all sizes. From single receipts to entire books, our powerful scanning technology ensures crystal-clear digital copies. With intelligent organization features and robust security, Paperless keeps your important documents at your fingertips while freeing up your physical space.
+
+Key Features:
+
+**Advanced Scanning Technology
+- High-quality document scanning
+- Auto-edge detection and perspective correction
+- Multi-page document support
+
+**Versatile Document Handling
+- Scan various document types: receipts, ID cards, books, and more
+- Batch scanning for multiple documents
+
+**OCR Technology
+- Extract text from images and scanned documents
+- Make all your documents searchable
+
+**User-Friendly Interface
+- Intuitive design for easy navigation
+- Customizable dashboard for quick access to frequently used features
+
+**Regular Updates and Support
+- Continuous improvements and new features
+- Responsive customer support
 
 <!-- ## Screenshots & Assets
 [Download Press Kit]({{ site.url }}/downloads/presskit.zip) -->
@@ -23,9 +46,27 @@ Paperless is your go-to platform for efficient property management, empowering l
 <br>
 
 ## Features
-- **Intuitive Property Listings**: 
-  - Easily create and manage property listings with our user-friendly interface. Input property details, upload high-quality photos, and highlight key features to attract potential tenants.
-- **Comprehensive Tenant Screening**: Screen potential tenants with ease using our integrated tenant screening tools. Access credit reports, rental history, and background checks to make informed decisions and find the right tenants for your properties.
+
+**Advanced Scanning Technology
+- High-quality document scanning
+- Auto-edge detection and perspective correction
+- Multi-page document support
+
+**Versatile Document Handling
+- Scan various document types: receipts, ID cards, books, and more
+- Batch scanning for multiple documents
+
+**OCR Technology
+- Extract text from images and scanned documents
+- Make all your documents searchable
+
+**User-Friendly Interface
+- Intuitive design for easy navigation
+- Customizable dashboard for quick access to frequently used features
+
+**Regular Updates and Support
+- Continuous improvements and new features
+- Responsive customer support
 
 <br>
 
@@ -34,18 +75,12 @@ Paperless is your go-to platform for efficient property management, empowering l
 https://apps.apple.com/app/id6478403264
 
 ### Find website
-https://landlordsco.karmaacademy.com.au
+https://paperless.karmaacademy.com.au
 
 ### Developer Twitter
 https://twitter.com/CodeWithKarma
 
-## Accolades
-![image](../images/review1.png)
-![image](../images/review2.png)
-![image](../images/review3.png)
-![image](../images/review4.png)
-
 ## About the developer
-I’m Karmjit Singh, an iOS developer living in Brisbane Australia. Besides coding, I like to play badminton and gardening.
+I’m Karmjit Singh, an iOS developer living in Brisbane Australia. Besides coding, I like to play badminton and do gardening.
 
 You can contact me anytime on [twitter]([http://twitter](https://twitter.com/CodeWithKarma))

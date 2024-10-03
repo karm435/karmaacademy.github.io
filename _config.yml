@@ -64,7 +64,7 @@ faqs                                      :
     description                           : Yes, all the data stays on your device. However, you can share the pdf file and save it to your files or iCloud.
     fontawesome_icon_name                 : eraser
 
-  - title                                 : How do I delete a property?
+  - title                                 : How do I delete a Pdf?
     description                           : Open the pdf file details and delete it.
     fontawesome_icon_name                 : trash
 
